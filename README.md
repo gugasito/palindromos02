@@ -36,6 +36,6 @@ Mejoramos el método y en eso jugaron un rol importante las pruebas antes mencio
 los espacios, puntos, comas, tildes, etc.
 
 
-![]{https://github.com/gugasito/palindromos02/blob/main/Captura%20de%20pantalla%202023-04-08%20233705.png}
+![](https://github.com/gugasito/palindromos02/blob/main/Captura%20de%20pantalla%202023-04-08%20233705.png)
 
-![]{https://github.com/gugasito/palindromos02/blob/main/Captura%20de%20pantalla%202023-04-08%20233811.png}
+![](https://github.com/gugasito/palindromos02/blob/main/Captura%20de%20pantalla%202023-04-08%20233811.png)
